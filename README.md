@@ -1,12 +1,18 @@
 
-Exp 6 Simulation of Optical Communication System
-## Introduction to OptiPerformer 
-## Aim
+# Exp 6 Simulation of Optical Communication System
+
+## Name : SUNDARRAJAN K
+## Reg No : 212223060279
+
+# Introduction to OptiPerformer 
+
+## Aim:
+
 To analyze and evaluate the performance of an optical communication system by studying the relationship between fiber length, received power, Q factor and Bit Error Rate(BER) and to observe changes in the eye diagram with increasing fiber length using optiperformer.
 
 ---
 
-## Theory
+## Theory:
 
 Optiwave introduces **OptiPerformer**, a free photonic design automation tool that harnesses the full power of OptiSystem and creates specific dynamic design scenarios for student use.
 
@@ -21,7 +27,7 @@ The system includes:
 
 ---
 
-## Procedure
+## Procedure:
 
 1. Download and install OptiPerformer from [optiwave.com](https://optiwave.com).  
 2. Copy the `Introduction_OptiPerformer.osp` file to your PC.  
@@ -51,37 +57,35 @@ The system includes:
    - Use forward/reverse buttons to step through iterations.  
    - Observe changes in received power, BER, Q factor, and eye diagram.
 
----
 
-## Observation
+
+## Observation:
 
 1. Cover sheet (as per attached example).  
 2. Tabulation of received power, Q factor, and BER for 5 fiber lengths.  
 3. Plot of received power, Q factor, and BER vs. fiber length.  
 4. Description of eye diagram changes with increasing fiber length.
 
----
 
-## Tabulation
+
+## Tabulation:
 
 **Transmission Analysis Across Fiber Lengths**
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+<img width="1551" height="1671" alt="image" src="https://github.com/user-attachments/assets/187527ce-b4e8-4eb0-95d4-a9937566bf80" />
 
----
 
-## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+## Graphs:
 
----
+<img width="940" height="335" alt="image" src="https://github.com/user-attachments/assets/af9b232f-bba7-47bc-8ba4-b82a704547a8" />
+<img width="940" height="326" alt="image" src="https://github.com/user-attachments/assets/bde23f03-af46-4334-873d-3ab0a2c1f467" />
+<img width="1600" height="626" alt="image" src="https://github.com/user-attachments/assets/aade14b3-c46d-481a-a7bd-4ff83852f1b8" />
+<img width="1600" height="557" alt="image" src="https://github.com/user-attachments/assets/64e4cf10-22cc-46ee-88fd-fa75931ea57e" />
+<img width="1600" height="554" alt="image" src="https://github.com/user-attachments/assets/153c8efd-c0d1-41fc-85cf-737f4642e7f5" />
 
-## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+## RESULT:
+
+THUS,The Introduction-to-Optiperformer is calculated and output is verified.
+
