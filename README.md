@@ -75,6 +75,9 @@ The system includes:
 <img width="1551" height="1671" alt="image" src="https://github.com/user-attachments/assets/187527ce-b4e8-4eb0-95d4-a9937566bf80" />
 
 
+## MODEL GRAPH:
+
+<img width="1082" height="384" alt="image" src="https://github.com/user-attachments/assets/799ca115-83ee-46ee-bd00-8837f44cdb7a" />
 
 ## Graphs:
 
